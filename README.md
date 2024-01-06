@@ -1,3 +1,8 @@
-#Fast_Food_Project
+# Fast_Food_Project
 
-Technologies html - css - Bootstrap 
+## Technologies
+
+This project was built using the following technologies:
+- HTML5
+- CSS3
+- Bootstrap 5
